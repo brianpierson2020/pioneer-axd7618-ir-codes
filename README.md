@@ -15,7 +15,6 @@ The codes can also probably be converted for use with other hardware/software an
 
 ## AXD7618 Remote
 
-![AXD7618-Remote-Drawing](https://user-images.githubusercontent.com/64499648/80622911-c0cb0e00-8a49-11ea-87e1-f12f571b181c.png)
-![AXD7618-Remote-Photo](https://user-images.githubusercontent.com/64499648/80621061-0e924700-8a47-11ea-984c-857e3722e210.jpg)
+![AXD7618-Remote-Drawing](https://user-images.githubusercontent.com/64499648/80623671-dbea4d80-8a4a-11ea-8e32-c2debc21fa79.jpg)
 
 
