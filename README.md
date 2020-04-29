@@ -1,7 +1,7 @@
 # IR codes from Pioneer AXD7618 remote
 
 ## General
-This IR codes are extracted from the Pioneer AXD7618 remote (as shown on the photo below). I have tested them succesfully with a Pioneer VSX-322 but this codes should be compatible with Pioneer VSX-322, VSX-500-K, VSX-522, VSX-528-S, VSX-1122 and possibly other Home Theater Systems from Pioneer as well.
+This IR codes are extracted from the Pioneer AXD7618 remote (as shown on the photo below). I have tested them succesfully with a Pioneer VSX-322 but this codes should also be compatible with Pioneer VSX-500-K, VSX-522, VSX-528-S, VSX-1122 and possibly other Home Theater Systems from Pioneer as well.
 
 > **Note**: If you are searching for other IR codes check out [probonopd/irdb](https://github.com/probonopd/irdb).
 
