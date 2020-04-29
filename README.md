@@ -13,6 +13,6 @@ _If you also own a BroadLink Universal Remote, the files from the command folder
 ## Conversion
 The codes can also probably be converted for use with other hardware/software and to other file formats using software like [IrScrutinizer](https://github.com/bengtmartensson/IrScrutinizer) or [MakeHex](https://github.com/probonopd/MakeHex) but I didn't try that yet. _If you do, please send a PR so we can keep it all in one place._
 
-## AXD7531 Remote
+## AXD7618 Remote
 
-![AXD7531-Remote](https://user-images.githubusercontent.com/64499648/80618540-caea0e00-8a43-11ea-90f1-9875b99752ca.jpg)
+![AXD7618-Remote](https://user-images.githubusercontent.com/64499648/80621061-0e924700-8a47-11ea-984c-857e3722e210.jpg)
